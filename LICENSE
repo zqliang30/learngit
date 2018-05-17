@@ -1,1 +1,3 @@
-aaa
+aversion control system.aa
+git remote add origin git@github.com:zqliang30/learngit.git
+git push -u origin master
